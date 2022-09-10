@@ -35,6 +35,11 @@ body {
 .marketing .col-lg-4 {
   margin-bottom: 1.5rem;
   text-align: center;
+  vertical-align: 50px;
+}
+
+.img1{
+  align-items: center;
 }
 /* rtl:begin:ignore */
 .marketing .col-lg-4 p {
